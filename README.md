@@ -1,7 +1,7 @@
 
   # ReadMe-Generator
   # ReadMe Generator
-  Code to Generate a ReadMe for your Github projects.
+  An easy way to create a ReadMe for your Github projects!
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#Usage)
@@ -21,11 +21,11 @@
   ## License
   This project is licensed under the none License
   ## Contributing
-  Feel free, I had a ton of help with this one.
+  Feel free! I had a ton of help with this one...
   ## Tests
   To run tests, run the following command:
   ```
-  tests
+  npm test
   ```
   ## Questions
   If you have any questions about the repo or want to open an issue contact GitNAG0 on fladnatas@gmail.com

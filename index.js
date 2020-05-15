@@ -2,9 +2,9 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const axios = require("axios");
 const util = require("util")
-const markDown = require(`./utils/generateMarkdown`);
+const markDown = require(`./generateMarkdown`);
 
-//set questions for user
+//Questions to create the ReadMe
 const questions = [
 
     {
