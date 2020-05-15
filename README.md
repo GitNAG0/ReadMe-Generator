@@ -1,7 +1,7 @@
 
   # ReadMe-Generator
   # ReadMe Generator
-  This is a way to generate a simple ReadMe on Github
+  Code to Generate a ReadMe for your Github projects.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#Usage)
@@ -12,16 +12,16 @@
   ## Installation
   To install necessary dependencies, run the following command:
   ```
-  Run npm install
+  npm install
   ```
   ## Usage
   AS A undefined
   I CAN undefined
   SO THAT undefined
   ## License
-  This project is licensed under the MIT License
+  This project is licensed under the none License
   ## Contributing
-  Feel free, I had a ton of help with this so the more the merrier 
+  Feel free, I had a ton of help with this one.
   ## Tests
   To run tests, run the following command:
   ```

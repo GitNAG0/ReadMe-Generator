@@ -1,7 +1,7 @@
 {
   "name": "ReadMe-Generator",
   "version": "1.0.0",
-  "description": "ReadMe_Generator",
+  "description": "Generate a ReadMe with just a few questions",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
